@@ -1,1 +1,3 @@
 Initial content Adding more content, adding more content from test branch.
+Jane Doe: then adding more content.
+John Doe: finally adding the last content.
